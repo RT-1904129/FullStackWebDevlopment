@@ -39,7 +39,7 @@
 }
 .custom-button {
   color: white;
-  background-color: #d0b200;
+  background-image:linear-gradient(#d0b200, #a58d00);
   width: 130px;
   height: 45px;
   border-width: 0;
